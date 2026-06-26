@@ -1,0 +1,6 @@
+{
+  "name": "PythonIDE",
+  "description": "A Python IDE with AI suggestions",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
